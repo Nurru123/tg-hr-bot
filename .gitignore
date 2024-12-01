@@ -1,0 +1,11 @@
+# ignore config
+config.php
+.env
+
+# ignore folders
+logs/
+upload/
+System/libs/
+
+# ignore specific files
+System/Listeners/onCbQuery.php
